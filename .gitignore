@@ -1,3 +1,21 @@
+# Custom
+.vscode/
+# game_Content_viewer/data/thumbnails/
+backup/
+scratch/
+scratch.py
+save_file.json
+run_ruff.cmd
+run_ruff.ps1
+remove_pycache.bat
+uv.lock
+launch_ue_5_4.cmd
+*.ruff_cache
+*.db
+*.csv
+*.pyi
+*.code-workspace
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
