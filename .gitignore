@@ -1,6 +1,6 @@
 # Custom
 .vscode/
-# game_Content_viewer/data/thumbnails/
+game_Content_viewer/data/thumbnails/
 backup/
 scratch/
 scratch.py
