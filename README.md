@@ -10,7 +10,7 @@ Tested with:
 
 Download `Game Content Viewer` tool:
 - Directly download repository from GitHub or install with git command line. 
-    - `git clone github.com/natelollar/ue5-game-content_viewer`
+    - `git clone https://github.com/natelollar/ue5-game-content-viewer`
 - Place the `ue5-game-content-viewer` folder in a preferred location.
     - Unzip first if directly downloaded from GitHub.
 - Install Python .venv or use regular Python install.
